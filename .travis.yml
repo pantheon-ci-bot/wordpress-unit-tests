@@ -1,7 +1,11 @@
 language: php
+node_js:
+  - node
+
+before_install:
+  - npm install -g npm@latest
 
 install:
-  - nvm use node
   - npm -v
   - php prepare.php
 
