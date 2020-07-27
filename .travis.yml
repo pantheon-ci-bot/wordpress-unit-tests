@@ -1,8 +1,7 @@
 language: php
-node_js:
-  - node
 
 install:
+  - nvm use node
   - php prepare.php
 
 script:
