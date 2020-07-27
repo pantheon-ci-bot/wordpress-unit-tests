@@ -2,6 +2,7 @@ language: php
 
 install:
   - nvm use node
+  - npm -v
   - php prepare.php
 
 script:
