@@ -1,5 +1,7 @@
 # phpunit-test-runner
 
+[![Minimal Support](https://img.shields.io/badge/Pantheon-Minimal_Support-yellow?logo=pantheon&color=FFDC28)](https://pantheon.io/docs/oss-support-levels#minimal-support)
+
 Thanks for running the WordPress PHPUnit test suite on your infrastructure. We appreciate you helping to ensure WordPress’s compatibility for your users.
 
 If you haven't already, [please first read through the "Getting Started" documentation](https://make.wordpress.org/hosting/test-results-getting-started/).
